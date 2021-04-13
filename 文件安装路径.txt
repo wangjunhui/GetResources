@@ -1,0 +1,5 @@
+1=D:\EmsPlusCRH5GBrake\bin\dpp\dpp08\dpp.exe
+2=D:\EmsPlusCRH5GBrake\bin\dpp\dpp81\dpp.exe
+3=D:\CRH5G_Project\CRH5G.exe
+4=D:\EmsPlusCRH5GBrake\bin\run\SchView.exe
+2=C:\EMSZHAOLEI\bin\run\TrigFig.exe
